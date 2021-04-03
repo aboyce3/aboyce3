@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aboyce3
 - 👀 I’m interested in software development and web services.
-- 🌱 I’m currently learning about operating systems and C++.
+- 🌱 I’m currently learning about Operating Systems and C++.
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me: andyboyce30@gmail.com
 
