@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aboyce3
-- 👀 I’m interested in software development and web services.
+- 👀 I’m interested in Software Development and Web Services.
 - 🌱 I’m currently learning about Database Management and Computer Architecture.
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me: andyboyce30@gmail.com
