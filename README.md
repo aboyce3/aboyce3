@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aboyce3
-- 👀 I’m interested in Software Development and Web Services.
-- 🌱 I’m currently learning about Database Management and Computer Architecture.
-- 💞️ I’m looking to collaborate on anything interesting!
+- 👀 I’m interested in Software Engineering and Programming Languages.
+- 🌱 I’m currently learning about Blockchain, Object Oriented Design, and Language-Based Security.
+- 💞️ I’m always open to collaboration!
 - 📫 How to reach me: andyboyce30@gmail.com
 
 <!---
